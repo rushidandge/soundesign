@@ -1,0 +1,38 @@
+#testimonials .content-container{
+    
+    margin-top: 50px;
+    justify-content: space-between;
+}
+#testimonials .testimonials{
+    width:264px;
+
+}
+
+#testimonials .testimonials img{
+    height: 100px;
+    width:100px;
+    border-radius: 10px;
+}
+
+#testimonials .testimonials .name{
+    font-family: 'alegreya', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+#testimonials .testimonials .company{
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 6px 0;
+    opacity: 0.7;
+}
+
+#testimonial .testimonials .review{
+    font-family: 'alegreya', serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 4px;
+}

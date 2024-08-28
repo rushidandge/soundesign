@@ -1,0 +1,30 @@
+#info .info-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%;
+    gap: 4px;
+}
+
+
+#info  .amount{
+    font-weight: 700;
+    font-size: 40px;
+
+ }
+
+ #info .type{
+    font-family: "Algreya", serif;
+    font-weight: 700;
+    font-size: 30px;
+ }
+
+ #info .wrapper{
+    position:relative;
+ }
+
+ #info .bg-element-2 {
+    position:absolute;
+    top:0;
+    left: 0;
+ }
